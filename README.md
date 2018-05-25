@@ -1,2 +1,2 @@
 # SportNewsAndroid
-Articl'ы нужно scroll'ить))
+Articl'ы scroll'ятся))
